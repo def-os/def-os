@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Hirlan e eu sou estudante de Sociologia pela Universidade de Brasília e analista de dados jr.</h2>
+<h2 align="left">Olá 👋! Meu nome é Hirlan e eu sou estudante de Sociologia pela Universidade de Brasília.</h2>
 
 ###
 
